@@ -1,2 +1,2 @@
-# Voice_Recog
+# Voice-Recognisation
 A voice recognition model in python
